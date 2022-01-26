@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+
+<html>
+
+<body>
+<vedio>
+ 
+
+<h1>my vedio</h1>
+
+ 
+
+<video poster="my vedio.jpg" width="320" height="240" controls="controls">
+
+<source src="my vedio.m4v" type="video/m4v">
+
+<source src="my vedio.ogv" type="video/ogg">
+
+<embed type="application/x-shockwave-flash"
+
+src="my vedio.swf" quality="high" width="320" height="240"
+
+title="my vedio" >
+
+</video>
+
+ 
+
+</body>
+
+</html>
+<html>
+
+<body>
+<vedio>
+
+<h1>my vedio no.2</h1>
+
+ 
+
+<video poster="my vedio no.2.jpg" width="320" height="240" controls="controls">
+
+<source src="my vedio no.2.m4v" type="video/m4v">
+
+<source src="my vedio no.1.ogv" type="video/ogg">
+
+<embed type="application/x-shockwave-flash"
+
+src="my vedio.swf" quality="high" width="320" height="240"
+
+title="my vedio no.2" >
+
+</video>
+
+ 
+
+</body>
+
+</html>
